@@ -1,0 +1,3 @@
+2024-05-24 15:37:50,330 - roma_file - INFO - Menyimpan Proses.
+2024-05-24 15:37:50,330 - roma_file - DEBUG - Pesan debug untuk log debug dan error.
+2024-05-24 15:37:50,330 - roma_file - ERROR - Pesan error untuk log debug dan error.
